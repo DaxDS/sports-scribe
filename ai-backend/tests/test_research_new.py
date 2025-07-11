@@ -1,7 +1,7 @@
 import asyncio
 import logging
 from agents.research_agent import ResearchAgent
-from data_collector import DataCollector  # Assuming this module provides data fetching
+from data_collector import DataCollector  
 
 logging.basicConfig(level=logging.INFO)
 
