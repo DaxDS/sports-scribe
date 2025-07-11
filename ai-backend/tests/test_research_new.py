@@ -1,7 +1,7 @@
 import asyncio
 import logging
 from agents.research_agent import ResearchAgent
-from data_collector import DataCollector  
+from agents.data_collector import DataCollectorAgent 
 
 logging.basicConfig(level=logging.INFO)
 
